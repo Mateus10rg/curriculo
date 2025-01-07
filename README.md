@@ -80,3 +80,5 @@ Busco uma oportunidade de estágio ou posição júnior na área de programaçã
 ## Considerações Finais
 
 Sou proativo, dedicado e estou sempre em busca de novos conhecimentos. Por exemplo, enquanto trabalhava como Auxiliar de Informática na Cyber Karllos, tomei a iniciativa de implementar melhorias nos processos de manutenção de sistemas operacionais, o que reduziu o tempo de inatividade dos equipamentos em 20%. Essa experiência demonstra minha capacidade de identificar problemas e propor soluções práticas.
+
+[Download Currículo PDF](#https://github.com/Mateus10rg/curriculo/blob/main/CV%20-%20MATEUS%20RODRIGUES.pdf)
